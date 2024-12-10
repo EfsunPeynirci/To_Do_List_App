@@ -36,17 +36,17 @@ The application is designed to help you stay organized and keep track of your da
 ## 📸 Screenshots
 ### Home Screen
 
-![to_do_list-0](https://github.com/user-attachments/assets/be6c9129-e442-4c26-86f5-2cfd32ca5f05)
+![to_do_list-0](https://github.com/user-attachments/assets/260847a9-1add-4c0d-a2e9-0ca57c6c8613)
 
 ### Add Task Screen
 
-![to_do_list-2](https://github.com/user-attachments/assets/d5e11dbb-3779-4bf0-a270-71467a74ad60)
+![to_do_list-2](https://github.com/user-attachments/assets/0437b7a8-7a5f-464d-bce3-66fcc50c5c74)
 
-![to_do_list-3](https://github.com/user-attachments/assets/2c1a3017-afdd-4d1c-8b1c-bd7ebd8a4d24)
+![to_do_list-3](https://github.com/user-attachments/assets/50341bb1-d9d8-4c1e-a277-5731dcec8f70)
 
 ### ✅ Mark a Task as Completed
 
-![to_do_list-1](https://github.com/user-attachments/assets/9312e451-1bb7-44da-9add-42fe614cfcb5)
+![to_do_list-1](https://github.com/user-attachments/assets/ee58f6ba-d83e-4913-8510-e027d2af50e6)
 
 ---
 
