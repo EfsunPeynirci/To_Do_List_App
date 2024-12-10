@@ -44,7 +44,7 @@ The application is designed to help you stay organized and keep track of your da
 
 ![to_do_list-3](https://github.com/user-attachments/assets/50341bb1-d9d8-4c1e-a277-5731dcec8f70)
 
-### ✅ Mark a Task as Completed
+### Marking a Task as Done
 
 ![to_do_list-1](https://github.com/user-attachments/assets/ee58f6ba-d83e-4913-8510-e027d2af50e6)
 
